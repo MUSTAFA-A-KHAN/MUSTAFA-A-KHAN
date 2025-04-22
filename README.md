@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/MUSTAFA-A-KHAN/git-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
+
 <!--
 **MUSTAFA-A-KHAN/MUSTAFA-A-KHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
