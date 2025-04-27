@@ -80,7 +80,7 @@ As an **Innovative Software Engineer**, I specialize in crafting impactful softw
 
 ## 🎓 **Education**
 **Bachelor of Technology (B.Tech)** in Computer Science  
-[University Name] | **Graduation Year**: [Year]
+ **Graduation Year**: [2023]
 
 ---
 
