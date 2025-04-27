@@ -72,6 +72,14 @@ As an **Innovative Software Engineer**, I specialize in crafting impactful softw
 
 ## 💡 **Projects**
 
+### **Telegram Charades Bot**  
+- **Technologies**: Go, `go-telegram-bot-api/telegram-bot-api`, Goroutines, Timers  
+- Developed a **Telegram bot** for **charades** where players take on the roles of **Leader** and **Guesser**.
+- Implemented **timer functionality**, where the Leader has a limited time to explain a word while the Guessers try to guess it.
+- Added **category selection** (e.g., Animals, Movies) and **leaderboard** features to track scores.
+- Created a system to give **hints** after multiple incorrect guesses.
+- **Go routines** were used for handling concurrent activities such as keeping track of the timer, receiving guesses, and managing player actions.
+  
 ### **Asset Tracking System**
 - **Technologies**: Java, SQL
 - Developed an end-to-end **asset management** system to track and manage inventory, assignments, and usage.
@@ -106,4 +114,5 @@ Let's connect! I'm always open to collaborations, new projects, and exciting opp
 ---
 
 **Let's create something amazing together!**
+
 
