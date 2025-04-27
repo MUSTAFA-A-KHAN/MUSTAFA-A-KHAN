@@ -50,7 +50,7 @@ As an **Innovative Software Engineer**, I specialize in crafting impactful softw
 **DATAMATO TECHNOLOGIES, Pune**  
 *May 2023 – Present*
 
-#### **Colt Utilit**
+#### **Colt Utility**
 - Developed a **Java utility** to convert sheet data into **JSON** format based on sheet names.
 - Integrated **API** calls to post JSON data, handling responses and sending **email notifications** based on status.
 - Prevented redundant data entry by validating rows before conversion.
