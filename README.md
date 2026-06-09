@@ -82,14 +82,10 @@ As an **Innovative Software Engineer**, I specialize in crafting impactful softw
 
 ---
 
-## 🏅 **Certifications**
-- **[Certification Name]** – [Issuing Organization]  
-- **[Certification Name]** – [Issuing Organization]
-
 ---
 
 ## 📬 **Contact Me**
-Let's connect! I'm always open to collaborations, new projects, and exciting opportunities. Feel free to reach out via email or phone.
+Let's connect! I'm always open to collaborations, new projects, and exciting opportunities. Feel free to reach out via email.
 
 ---
 
