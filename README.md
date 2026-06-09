@@ -52,7 +52,7 @@ As an **Innovative Software Engineer**, I specialize in crafting impactful softw
 
 ## 💡 **Projects**
 
-### **Telegram Charades Bot**  
+### **Telegram Charades Bot** t.me/croco_rebirth_bot 
 - **Technologies**: Go, `go-telegram-bot-api/telegram-bot-api`, Goroutines, Timers  
 - Developed a **Telegram bot** for **charades** where players take on the roles of **Leader** and **Guesser**.
 - Implemented **timer functionality**, where the Leader has a limited time to explain a word while the Guessers try to guess it.
